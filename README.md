@@ -1,5 +1,6 @@
 # STAIR-CASE-WIRING
-
+### Name:Ramkumar R
+### Reg no:212223080042
 AIM
 To control the status of the given lamp by using two – way switches.
 
